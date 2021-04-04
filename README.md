@@ -3,9 +3,6 @@ This is my Springboard capstone project done in Tableau, where I analyze employe
 
 # Portfolio
 
-<!-- JS file to enable the JavaScript API. You can point at the
-  version on public.tableau.com, online.tableau.com, or your on-prem Server -->
-<script src="https://public.tableau.com/views/Book2_16130219344420/Presentation?:language=en&:display_count=y&:origin=viz_share_link"></script>
+https://public.tableau.com/views/Book2_16130219344420/Presentation?:language=en&:display_count=y&:origin=viz_share_link"
 ...
-<!-- Empty div where the viz will be placed -->
 <div id="tableauViz"></div>
